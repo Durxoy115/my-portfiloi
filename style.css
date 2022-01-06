@@ -113,4 +113,13 @@ section{
     height: 80%;
     width: 100%;
 }
+footer{
+    background-color: brown;
+    color: blanchedalmond;
+    text-align: center;
+    
+    font-family: 'Shizuru', cursive;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
 
